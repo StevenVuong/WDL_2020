@@ -1,24 +1,62 @@
-# World Data League Hackathon 2020
+# Project Title
 
-## Hackathon Notes:
--  The hackathon is supposed to align with the United Nations (UN) sustainable development
- goal no.11
--  Participants guidebook can be found in `./briefing/`
-## Stage 1:
-Churn Model for Public Transport (full briefing can be found in `./briefing/stage1/`). <br>
-This stage of the hackathon lasts two weeks up until 17th April. <br>
-In summary: 
--  Use the data given:
-    -  Aggregated transport data of origin-destination (OD) matrixes for cusotmers 
-    -  User profiles of customers
-    -  Porgugese transport data
--  TO:
-    -  Get the profile of "churners" (measure of customers who stop using the business)
-    -  Try to explain what the drivers are for churn
-    -  Provide recommendations to win-back churners and/or to gain new segments/customers
--  Submittables:
-    -  One minute Video explaining our solution
-    -  Jupyter notebook with template found in `./notebooks/`
--  Other Notes:
-    -  We are free to use other data sources as long as they are free to access
-    -  We get bonus points for presentation and communication
+Simple overview of use/purpose.
+
+## Description
+
+An in-depth paragraph about your project and overview of use.
+
+## Getting Started
+
+### Dependencies
+
+* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* ex. Windows 10
+
+### Installing
+
+* How/where to download your program
+* Any modifications needed to be made to files/folders
+
+### Executing program
+
+* How to run the program
+* Step-by-step bullets
+```
+code blocks for commands
+```
+
+## Help
+
+Any advise for common problems or issues.
+```
+command to run if program contains helper info
+```
+
+## Authors
+
+Contributors names and contact info
+
+ex. Dominique Pizzie  
+ex. [@DomPizzie](https://twitter.com/dompizzie)
+
+## Version History
+
+* 0.2
+    * Various bug fixes and optimizations
+    * See [commit change]() or See [release history]()
+* 0.1
+    * Initial Release
+
+## License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+
+## Acknowledgments
+
+Inspiration, code snippets, etc.
+* [awesome-readme](https://github.com/matiassingers/awesome-readme)
+* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+* [dbader](https://github.com/dbader/readme-template)
+* [zenorocha](https://gist.github.com/zenorocha/4526327)
+* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
