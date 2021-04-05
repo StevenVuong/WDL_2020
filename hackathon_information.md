@@ -4,6 +4,8 @@
 -  The hackathon is supposed to align with the United Nations (UN) sustainable development
  goal no.11
 -  Participants guidebook can be found in `./briefing/`
+-  [literature review](https://docs.google.com/document/d/1HrYBQdjs7fPocH66OW4aAJo-m2LtAGBzjkwyvoKQr3c/edit?usp=drive_web&ouid=112963732292703558788)
+-  [other potential datasets](https://docs.google.com/spreadsheets/d/1zp2Cai0xiCjTdycq7rDBRHGPbPk2AnBNBTscbxN8stg/edit?usp=drive_web&ouid=112963732292703558788)
 ## Stage 1:
 Churn Model for Public Transport (full briefing can be found in `./briefing/stage1/`). <br>
 This stage of the hackathon lasts two weeks up until 17th April. <br>
