@@ -3,3 +3,8 @@ pandas==1.1.5
 numpy==1.19.5
 seaborn==0.11.1
 scipy==1.5.4
+plotly==4.14.3
+holoviews==1.4.2
+bokeh==2.3.0
+pyviz==0.10.3
+networkx
