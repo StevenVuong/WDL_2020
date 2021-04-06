@@ -7,6 +7,10 @@ Simple overview of use/purpose.
 An in-depth paragraph about your project and overview of use.
 
 ## Getting Started
+```
+pip3 install ./readme.txt
+conda install -c alubbock pygraphviz -y
+```
 
 ### Dependencies
 

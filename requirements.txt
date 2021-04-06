@@ -7,4 +7,5 @@ plotly==4.14.3
 holoviews==1.4.2
 bokeh==2.3.0
 pyviz==0.10.3
-networkx
+networkx==2.4.0
+pydot==1.4.2
